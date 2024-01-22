@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumarsurajverma6001@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1yWqhQd4kwf8k6PukxAkzr1xVVwX7Jkgb/view?usp=sharing](https://drive.google.com/file/d/1n6Yry4jTjfsmAG5dtBVRw_meBOmsrhLv/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1yWqhQd4kwf8k6PukxAkzr1xVVwX7Jkgb/view?usp=sharing](https://drive.google.com/file/d/1n6Yry4jTjfsmAG5dtBVRw_meBOmsrhLv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
