@@ -10,7 +10,7 @@
 
 - 🔭 I’ve completed my first MERN Stack Project [Hire-Hub](https://hire-hub-aklu.onrender.com/)
 
-- 🌱 I’m currently learning **React Js , Next Js , Tailwind CSS**
+- 🌱 I’m currently doing new project *[MERN-Estate](https://github.com/Himanshu8825/RealEstate.git)*
 
 - 💬 Ask me about **React , MERN , Node**
 
